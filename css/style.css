@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.todo-items {
+    list-style-type: none;
+    margin: 10px auto;
+    width: fit-content;
+    border: 2px solid;
+}
+.menu{
+    margin-top: 10px;
+}
+.todo-box{
+    text-align: center;
+    margin: 50px auto;
+}
+.del-text{
+    color: #adadad;
+    text-decoration: line-through;
+}
